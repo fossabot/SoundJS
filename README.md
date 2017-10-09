@@ -1,4 +1,6 @@
 # SoundJS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSoundJS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSoundJS?ref=badge_shield)
+
 
 SoundJS is a library to make working with audio on the web easier. It provides a consistent API for playing audio in
 different browsers, including using a target plugin model to provide an easy way to provide additional audio plugins
@@ -20,6 +22,9 @@ function handleLoadComplete(event) {
 Built by gskinner.com, and released for free under the MIT license, which means you can use it for almost any purpose
 (including commercial projects). We appreciate credit where possible, but it is not a requirement.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSoundJS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSoundJS?ref=badge_large)
 
 ## Support and Resources
 * Find examples and more information at the [SoundJS web site](http://soundjs.com/)
